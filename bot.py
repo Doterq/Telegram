@@ -51,3 +51,4 @@ bot.infinity_polling()
 #def memr_photo(shutka):
 #    print(shutka)
 
+1
