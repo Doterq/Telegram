@@ -25,7 +25,7 @@ I am here to echo your kind words back to you. Just say anything nice and I'll s
 def send_info(message):
     print(message)
     bot.reply_to(message,"\
-Здесь есть информация о боте\
+Здесь есть информация о боте и не только о боте\
 " )
     
 from random import choice
@@ -51,4 +51,3 @@ bot.infinity_polling()
 #def memr_photo(shutka):
 #    print(shutka)
 
-1
