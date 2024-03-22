@@ -25,7 +25,7 @@ I am here to echo your kind words back to you. Just say anything nice and I'll s
 def send_info(message):
     print(message)
     bot.reply_to(message,"\
-Здесь есть информация о боте и не только о боте\
+Здесь есть информация о боте и не только о боте и можно сыграть в монетку\
 " )
     
 from random import choice
